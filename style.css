@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@200&display=swap');
+  
+body{
+  background-color: #f6f9fd;
+}
+h2{
+  font-family: 'Ysabeau', sans-serif;
+  color: rgb(1, 1, 1);
+  text-transform: uppercase;
+  text-align: center;
+}
+.container {
+  display: flex;
+  border: 1px solid rgb(233, 233, 233);
+  background-color: #ffffff;
+  padding: 8px;
+  margin: 10px 0px;
+}
+img{
+  height: 120px;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 50%;
+}
+p{
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 13px;
+  padding: 5px 8px 10px 10px;
+  margin: 0px;
+}
+h3{
+  color: rgb(5, 108, 184);
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 5px 0px 0px 10px;
+}
+
